@@ -1,2 +1,3 @@
 # DRTDemo
-edinburghnlp drt demo
+EdinburghNLP DRT Demo for internal use.
+Run app.py
