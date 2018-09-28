@@ -24,4 +24,4 @@ Run the following code in the terminal.
 ```
 Then right click the url in the terminal and open it.
 
-### The complete version running on the server is private to EdinburghNLP. The website for this parser is http://kinloch.inf.ed.ac.uk/drsparser.html.
+#### The complete version running on the server is private to EdinburghNLP. The website for such parser is http://kinloch.inf.ed.ac.uk/drsparser.html.
