@@ -7,7 +7,7 @@ This demo requires python 2.7 and was only tested on Linux.  Using virtualenv is
 * NLTK
 * OpenCV for python
 * TexLive
-## Some data you may need.
+## Data
 Download the following data and put them into the folder named "data".
 * The Model from https://drive.google.com/file/d/1jbi080WOWBY7JiZ7uodB6OJg06QAY62h/view?usp=sharing.
 * The pretrained embedding from https://drive.google.com/file/d/1vdywO7kAa9SCDW7u9YWnusuwUoMrvBQn/view?usp=sharing.
@@ -23,3 +23,5 @@ Run the following code in the terminal.
 (venv) $ python app.py
 ```
 Then right click the url in the terminal and open it.
+
+### The complete version running on the server is private to EdinburghNLP. The website for this parser is http://kinloch.inf.ed.ac.uk/drsparser.html.
